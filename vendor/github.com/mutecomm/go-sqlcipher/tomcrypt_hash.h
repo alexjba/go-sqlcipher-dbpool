@@ -18,7 +18,7 @@ struct sha256_state {
 #ifdef LTC_SHA1
 struct sha1_state {
     ulong64 length;
-    uint32_t state[5], curlen;
+    ulong32 state[5], curlen;
     unsigned char buf[64];
 };
 #endif

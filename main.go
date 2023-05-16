@@ -27,8 +27,8 @@ const (
 	WALMode      = "wal"
 	InMemoryPath = ":memory:"
 
-	dbFile    = "file:/Users/alexjbanca/Repos/status-desktop/Status/data/0x50daf880f5d6f79c12bd75eaeb20984fa646e1d77256fcd0c600465ae6a49995.db"
-	dbPass    = "0xc21f6381f45922704ecb6614b23d65be7b63d205355218dc71cabdc3a3001ce3"
+	dbFile = "file:/Users/alexjbanca/Repos/status-desktop/Status/data/0x110d2f3c8ee2ea1bca23a0b888f5241127130abe7f4cb0fda9224a1e32d82810.db"
+	dbPass = "0x04d5de97bc30d087e0e0217bff2a9b16f3079edaafffec8f5b8f18c62fddc91b64cb7590991b31116cf04f540d1a6056a2b501ecafd5e78062698b43279c0bce4e"
 )
 
 var (
