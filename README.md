@@ -6,6 +6,7 @@ Testing go-sqlcipher performance in different scenarios
 ```
 Test info:  DB file 12,16 GB on disk;
 Query: SELECT id, mentions FROM user_messages LIMIT ", max_rows
+Nb of rows: 234329 
 ```
 
 <img width="1395" alt="Screenshot 2023-05-16 at 17 32 30" src="https://github.com/alexjba/go-sqlcipher-dbpool/assets/47811206/b3ce6261-c583-4fe6-a0b8-77827fdfed8f">
